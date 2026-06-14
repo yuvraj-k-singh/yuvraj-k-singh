@@ -13,9 +13,9 @@
 <div align="center">
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake.svg?v=1">
-    <img alt="Yuvraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg?v=1" width="100%" style="max-width: 850px; border-radius: 12px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake.svg">
+    <img alt="Yuvraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg" width="100%" style="max-width: 850px; border-radius: 12px;">
   </picture>
   <br/>
 </div>
