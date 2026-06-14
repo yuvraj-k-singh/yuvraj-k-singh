@@ -22,6 +22,14 @@
 
 ---
 
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=yuvraj-k-singh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
