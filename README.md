@@ -98,11 +98,12 @@
   <span> GitHub Performance</span>
 </h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yuvraj-k-singh&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-k-singh&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=yuvraj-k-singh&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10" height="180" />
+  <img src="https://streak-stats.demolab.com?user=yuvraj-k-singh&theme=radical&hide_border=true&border_radius=10" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-k-singh&layout=compact&theme=radical&hide_border=true&border_radius=10" height="250" />
+</div>
 
 ---
 
