@@ -8,16 +8,16 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
 <div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake.svg">
-    <img alt="Yuvraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg" width="100%" style="max-width: 850px; border-radius: 12px;">
-  </picture>
-  <br/>
+
+<img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java">
+
+<img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-Beginner-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-purple?style=for-the-badge">
+
 </div>
 
 ---
