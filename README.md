@@ -33,15 +33,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/yuvraj-kumar-singh/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/yuvraj-k-singh" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:yuvrajstudentbussiness@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 </p>
@@ -88,8 +88,8 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=yuvraj-k-singh&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Total%200PRs-200-2ea44f?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Merges-100-brightgreen?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%50PRs-50-2ea44f?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Merges-42-brightgreen?style=for-the-badge&logo=github" />
 
 
 </div>
@@ -107,14 +107,6 @@
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-k-singh&layout=compact&theme=radical&hide_border=true&border_radius=10" height="250" />
 </div>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yuvraj-k-singh&theme=tokyonight" />
-</p>
 
 ---
 
