@@ -88,6 +88,9 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=yuvraj-k-singh&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total%200PRs-200-2ea44f?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Merges-100-brightgreen?style=for-the-badge&logo=github" />
+
 
 </div>
 
