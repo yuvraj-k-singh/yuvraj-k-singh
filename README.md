@@ -8,41 +8,56 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 👨‍💻 About Me
-
-* 🎓 BTech CSE Student at **Indore Institute of Science and Technology**
-* 🌱 Currently learning **Java, DSA, Operating Systems & Web Development**
-* 💡 Interested in **Software Development & Problem Solving**
-* 📚 Practicing **Data Structures and Algorithms using Java**
-* 🎯 Goal: Crack internships and become a strong Software Engineer
-
----
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="mailto:your-email@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 </p>
 
 ---
 
-## 🚀 Languages and Tools
+<!-- TECH STACK -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p30teleq&rid=giphy.gif" width="28">
+  <span> Tech Stack</span>
+</h2>
 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode,idea,pycharm,js,react" />
+<details open>
+<summary><b>🔥 Languages & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css&theme=dark&perline=9" alt="Languages"/>
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark&perline=8" alt="Frameworks"/>
+</p>
+</details>
+
+<!-- <details open>
+<summary><b>☁️ Cloud & Database</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,supabase,mongodb,mysql,postgres,sqlite&theme=dark&perline=8" alt="Cloud & DB"/>
+</p>
+</details> -->
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,git,github,docker,vscode,notion&theme=dark&perline=8" alt="Tools"/>
+</p>
+</details>
 
 ---
 
