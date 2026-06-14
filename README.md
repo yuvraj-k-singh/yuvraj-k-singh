@@ -10,12 +10,14 @@
 
 # 🐍 Contribution Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/main/assets/contribution-graph-infinite-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/main/assets/contribution-graph-infinite-light.svg" />
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/main/assets/contribution-graph-infinite-dark.svg" width="100%" />
-</picture>
-
+<div align="center">
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake.svg">
+    <img alt="Yuvraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-snake-dark.svg" width="100%" style="max-width: 850px; border-radius: 12px;">
+  </picture>
+  <br/>
 </div>
 
 ---
