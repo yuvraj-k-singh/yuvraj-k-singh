@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/yuvraj-k-singh/yuvraj-k-singh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
