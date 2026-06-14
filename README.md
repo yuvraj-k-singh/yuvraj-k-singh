@@ -1,10 +1,20 @@
-# <h1 align="center">Hi 👋, I'm Yuvraj Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Yuvraj Kumar Singh</h1>
 
 <h3 align="center">🚀 Java Developer | DSA Learner | BTech CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Open+Source+Enthusiast;BTech+CSE+Student;Future+Software+Engineer" />
 </p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -61,7 +71,20 @@
 
 ---
 
-## 📊 GitHub Stats
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yuvraj-k-singh&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+<!--  GitHub Performance -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  <span> GitHub Performance</span>
+</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-k-singh&show_icons=true&theme=tokyonight" height="180em"/>
@@ -90,14 +113,6 @@
 ## 📈 Contribution Graph
 
 [![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-k-singh\&theme=tokyo-night)](https://github.com/yuvraj-k-singh)
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=yuvraj-k-singh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
