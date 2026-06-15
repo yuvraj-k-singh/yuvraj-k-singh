@@ -124,22 +124,4 @@
 
 ---
 
-## ✨ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 💻 Current Focus
-
-```java
-while(!success){
-    improveSkills();
-    practiceDSA();
-    buildProjects();
-}
-```
-
----
-
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
